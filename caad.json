@@ -1,0 +1,13 @@
+{
+"companyName": "Fakulteti i Arkitektures dhe Urbanistikes",
+"productName": "Lenda_CAAD_test_mjedisi VR_Tiziana Lohja",
+"dataUrl": "caad.data.unityweb",
+"wasmCodeUrl": "caad.wasm.code.unityweb",
+"wasmFrameworkUrl": "caad.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
